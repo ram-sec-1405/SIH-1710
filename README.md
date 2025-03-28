@@ -58,7 +58,10 @@ Ministry of Railway
 ## Dependencies
 
 1.Navigation Technology (GPS, IPS, AR/VR, IoT)
+
 2.Digital Infrastructure (Signage, kiosks, beacons, Wi-Fi, 5G)
+
 3.hardware dependencies
+
 4.software dependencies
 
